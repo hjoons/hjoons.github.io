@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.rows{
+    text-align: center;
+    margin-top:15%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    .top-row{
+        padding-bottom: 2em;
+    }
+
+    .bottom-row{
+        padding-top: 1em;
+        #color-change{
+            font-size: 4em;
+            &:hover{
+                color: grey;
+            }
+        }
+    }
+}
+
+
+

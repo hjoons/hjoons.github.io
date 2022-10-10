@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.rows {
+  text-align: center;
+  margin-top: 15%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.rows .top-row {
+  padding-bottom: 2em;
+}
+.rows .bottom-row {
+  padding-top: 1em;
+}
+.rows .bottom-row #color-change {
+  font-size: 4em;
+}
+.rows .bottom-row #color-change:hover {
+  color: grey;
+}/*# sourceMappingURL=stylesheet.css.map */
